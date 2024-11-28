@@ -117,7 +117,7 @@ a {
 }
 .home__container-wrapper {
   margin: 0px auto;
-  background: url("./images/home/background.png") 0 0/cover no-repeat;
+  background: url("../images/home/background.png") 0 0/cover no-repeat;
   border-radius: 50px;
 }
 .home__container {
@@ -613,7 +613,7 @@ a {
 @media (max-width: 870px) {
   .home__container-wrapper {
     margin: 0px auto;
-    background: url("./images/home/background.png") 0 0/cover no-repeat;
+    background: url("../images/home/background.png") 0 0/cover no-repeat;
     border-radius: 50px;
   }
   .home__container {
@@ -1166,7 +1166,7 @@ a {
   }
 }
 .plan {
-  background: url("./images/plan/background.png") 0 0/cover no-repeat;
+  background: url("../images/plan/background.png") 0 0/cover no-repeat;
   padding: 50px 0px 70px 0px;
 }
 .plan__title {
@@ -1425,7 +1425,7 @@ a {
 }
 .about {
   padding: 30px 0px 110px 0px;
-  background: url("./images/about/background.png") 0 0/cover no-repeat;
+  background: url("../images/about/background.png") 0 0/cover no-repeat;
 }
 .about__container {
   position: relative;
